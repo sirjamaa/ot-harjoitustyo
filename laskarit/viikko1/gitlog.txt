@@ -1,0 +1,114 @@
+Terkkuja
+commit c44fbd28a94677128cc255126d4519dd6e776a82
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:21:43 2021 +0200
+
+    terkkuja kotiin
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 9e3d44382b7c17d31e957ea79b5dca8c694a06ea
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:13:34 2021 +0200
+
+    uutta kamaa
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6815fc6c1cdc7d6fca1c73667809fb3f822cd4c3
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:06:46 2021 +0200
+
+    hienoja muutoksia
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 3 ++-
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+
+commit 07f0b4395ef1c9c3d404f5b7e5ef6200e622614d
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:04:25 2021 +0200
+
+    nimitys
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 01469630850a546d26268eb2a6cd13acce5b2662
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:03:10 2021 +0200
+
+    toisen poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 74b8a9aba1407f516485a20cb3d556e0959908bf
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:02:06 2021 +0200
+
+    poistoa ja lisäystä
+
+ tiedosto.txt | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+commit dbd175014d035333827fcfb2c91b0ce100b9b0dc
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 21:00:32 2021 +0200
+
+    paljon tekstiä
+
+ tiedosto.txt | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)
+
+commit fb1b62bc4ee5c25eda8af2653a6752034da35479
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 20:58:13 2021 +0200
+
+    uusi hakemus
+
+ stuff/laatikko | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2be94b681e7592d452150fca75504292b2f94cda
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 20:57:25 2021 +0200
+
+    lisäyksiä
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 38008946ed6cc118723bb0bda9ab2d36416dde3c
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 20:54:36 2021 +0200
+
+    uusi tieto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c0f7d138ea5c41beca1d01229b37ca18cd3dc69e
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 20:53:37 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 43d14a077f9fb88f6e4a71ce38e8987999b63e20
+Author: Sirja <sirja.uotila@helsinki.fi>
+Date:   Tue Mar 23 20:52:03 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
