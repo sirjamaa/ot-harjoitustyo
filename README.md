@@ -1,7 +1,8 @@
-# Ohjelmistotekniikka #
+# Ohjelmistotekniikka
 
-## Viikko 1 ##
 
-[gitlog.txt](https://github.com/sirjamaa/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+**Dokumentaatio**
 
-[komentorivi.txt](https://github.com/sirjamaa/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[Vaatimusmäärittely](https://github.com/sirjamaa/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
+[Työaikakirjanpito](https://github.com/sirjamaa/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
